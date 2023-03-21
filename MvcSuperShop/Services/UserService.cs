@@ -1,7 +1,7 @@
-﻿namespace MvcSuperShop.Services
+﻿using Newtonsoft.Json;
+
+namespace MvcSuperShop.Services
 {
-
-
     public class FakePerson
     {
         public string FirstName { get; set; }
